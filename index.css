@@ -1,0 +1,27 @@
+.calculator {
+    padding: 10px;
+}
+
+.display-box {
+    height: 30px;
+    border: none;
+}
+
+.button {
+    border: none;
+    height: 30px;
+    width: 50px;
+    color: white;
+}
+
+.btn-left {
+    background-color: #363738;
+}
+
+.btn-ryt {
+    background-color: grey;
+}
+
+.clearscreen {
+    background-color: #2eb8a1;
+}
